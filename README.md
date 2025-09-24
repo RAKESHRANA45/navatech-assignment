@@ -58,4 +58,6 @@ terraform init
 terraform apply -auto-approve
 
 
+<img width="621" height="359" alt="Screenshot 2025-09-25 at 12 23 49 AM" src="https://github.com/user-attachments/assets/756e9cb0-5003-4969-aaab-697d2a9f6dd0" />
 
+<img width="830" height="414" alt="Screenshot 2025-09-25 at 12 20 38 AM" src="https://github.com/user-attachments/assets/19855651-9f29-4c07-adaa-38a73a9bafe5" />
